@@ -1,0 +1,42 @@
+# Experiment Configuration
+# Session: 2026-04-24-20-12-23-noat
+# Generated: 2026-04-24T17:12:23.544Z
+
+experiment:
+  id: EXP-17-5-20
+  topic: feature-engineering
+  date: "2026-04-24"
+  session: "2026-04-24-20-12-23-noat"
+
+model:
+  architecture: transformer
+  hidden_size: 768
+  num_layers: 12
+  dropout: 0.1
+  activation: gelu
+
+training:
+  learning_rate: 0.0001
+  batch_size: 16
+  epochs: 50
+  current_epoch: 17
+  optimizer: adam
+  scheduler: cosine_warmup
+  warmup_steps: 1000
+
+data:
+  train_size: 0.80
+  val_size: 0.10
+  test_size: 0.10
+  num_workers: 4
+  augmentation: true
+
+results:
+  accuracy: 0.8566
+  loss: 0.07140
+  iterations: 3198
+
+output:
+  checkpoint_dir: checkpoints/
+  log_dir: logs/
+  export_format: onnx
