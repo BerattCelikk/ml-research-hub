@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-04-24T17:13:49.842Z",
-  "session_id": "2026-04-24-20-13-49-7xeg",
+  "last_updated": "2026-04-24T19:00:00.071Z",
+  "session_id": "2026-04-24-22-00-00-73os",
   "week": 17,
   "day_of_year": 114,
   "current_topic": {
-    "key": "feature-engineering",
-    "label": "Feature Engineering",
-    "emoji": "⚙️"
+    "key": "visualization",
+    "label": "Visualization",
+    "emoji": "📈"
   },
   "metrics": {
-    "accuracy": 0.8707,
-    "loss": 0.02296,
-    "iterations": 3198,
+    "accuracy": 0.8746,
+    "loss": 0.08322,
+    "iterations": 3224,
     "epoch": 17
   },
   "config": {
-    "learning_rate": 0.0001,
+    "learning_rate": 0.001,
     "batch_size": 16
   }
 }
