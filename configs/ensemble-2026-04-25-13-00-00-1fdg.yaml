@@ -1,0 +1,42 @@
+# Experiment Configuration
+# Session: 2026-04-25-13-00-00-1fdg
+# Generated: 2026-04-25T10:00:00.186Z
+
+experiment:
+  id: EXP-17-6-13
+  topic: ensemble
+  date: "2026-04-25"
+  session: "2026-04-25-13-00-00-1fdg"
+
+model:
+  architecture: transformer
+  hidden_size: 768
+  num_layers: 12
+  dropout: 0.1
+  activation: gelu
+
+training:
+  learning_rate: 0.003
+  batch_size: 32
+  epochs: 50
+  current_epoch: 18
+  optimizer: adam
+  scheduler: cosine_warmup
+  warmup_steps: 1000
+
+data:
+  train_size: 0.80
+  val_size: 0.10
+  test_size: 0.10
+  num_workers: 4
+  augmentation: true
+
+results:
+  accuracy: 0.9351
+  loss: 0.06606
+  iterations: 3124
+
+output:
+  checkpoint_dir: checkpoints/
+  log_dir: logs/
+  export_format: onnx
