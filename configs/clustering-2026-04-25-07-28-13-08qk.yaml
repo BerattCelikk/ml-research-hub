@@ -1,0 +1,42 @@
+# Experiment Configuration
+# Session: 2026-04-25-07-28-13-08qk
+# Generated: 2026-04-25T04:28:13.770Z
+
+experiment:
+  id: EXP-17-6-7
+  topic: clustering
+  date: "2026-04-25"
+  session: "2026-04-25-07-28-13-08qk"
+
+model:
+  architecture: transformer
+  hidden_size: 768
+  num_layers: 12
+  dropout: 0.1
+  activation: gelu
+
+training:
+  learning_rate: 0.001
+  batch_size: 32
+  epochs: 50
+  current_epoch: 18
+  optimizer: adam
+  scheduler: cosine_warmup
+  warmup_steps: 1000
+
+data:
+  train_size: 0.80
+  val_size: 0.10
+  test_size: 0.10
+  num_workers: 4
+  augmentation: true
+
+results:
+  accuracy: 0.9134
+  loss: 0.06772
+  iterations: 3046
+
+output:
+  checkpoint_dir: checkpoints/
+  log_dir: logs/
+  export_format: onnx
