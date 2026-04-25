@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-04-25T04:28:27.112Z",
-  "session_id": "2026-04-25-07-28-27-qcn1",
+  "last_updated": "2026-04-25T10:00:00.186Z",
+  "session_id": "2026-04-25-13-00-00-1fdg",
   "week": 17,
   "day_of_year": 115,
   "current_topic": {
-    "key": "clustering",
-    "label": "Clustering",
-    "emoji": "🫧"
+    "key": "ensemble",
+    "label": "Ensemble Methods",
+    "emoji": "🎭"
   },
   "metrics": {
-    "accuracy": 0.9105,
-    "loss": 0.05477,
-    "iterations": 3046,
+    "accuracy": 0.9351,
+    "loss": 0.06606,
+    "iterations": 3124,
     "epoch": 18
   },
   "config": {
-    "learning_rate": 0.001,
+    "learning_rate": 0.003,
     "batch_size": 32
   }
 }
