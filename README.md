@@ -1,6 +1,6 @@
 # 🧠 ML Research Hub
 
-> **Status:** Active Development &nbsp;|&nbsp; **Last Updated:** 2026-04-25
+> **Status:** Active Development &nbsp;|&nbsp; **Last Updated:** 2026-04-26
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square)
@@ -10,9 +10,9 @@
 
 | Experiment | Area | Status | Updated |
 |-----------|------|--------|---------|
-| EXP-17-A | Ensemble Methods | 🟢 Running | 2026-04-25 |
-| EXP-17-B | Data Pipeline | 🟡 Review | 2026-04-25 |
-| EXP-16-C | Evaluation Suite | ✅ Done | 2026-04-25 |
+| EXP-17-A | Feature Engineering | 🟢 Running | 2026-04-26 |
+| EXP-17-B | Data Pipeline | 🟡 Review | 2026-04-26 |
+| EXP-16-C | Evaluation Suite | ✅ Done | 2026-04-26 |
 
 ## 📦 Structure
 
@@ -40,11 +40,11 @@
 ## 📈 Progress Tracker
 
 ```
-Week 17 — 2026-04-25
+Week 17 — 2026-04-26
 Commit streak: Active
-Latest session: 2026-04-25-13-00-00-1fdg
-Focus: Ensemble Methods
+Latest session: 2026-04-26-14-38-00-1thi
+Focus: Feature Engineering
 ```
 
 ---
-*Auto-updated by development pipeline — 2026-04-25T10:00:00.186Z*
+*Auto-updated by development pipeline — 2026-04-26T11:38:00.738Z*
