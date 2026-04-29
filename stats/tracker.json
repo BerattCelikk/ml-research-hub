@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-04-29T19:00:00.038Z",
-  "session_id": "2026-04-29-22-00-00-t9ed",
-  "week": 17,
-  "day_of_year": 119,
+  "last_updated": "2026-04-29T22:00:00.038Z",
+  "session_id": "2026-04-29-01-00-00-ro9h",
+  "week": 18,
+  "day_of_year": 120,
   "current_topic": {
-    "key": "active-learning",
-    "label": "Active Learning",
-    "emoji": "🎓"
+    "key": "model-training",
+    "label": "Model Training",
+    "emoji": "🧠"
   },
   "metrics": {
-    "accuracy": 0.964,
-    "loss": 0.04639,
-    "iterations": 3309,
-    "epoch": 22
+    "accuracy": 0.9655,
+    "loss": 0.06258,
+    "iterations": 3053,
+    "epoch": 23
   },
   "config": {
-    "learning_rate": 0.001,
-    "batch_size": 128
+    "learning_rate": 0.0003,
+    "batch_size": 256
   }
 }
