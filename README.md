@@ -10,9 +10,9 @@
 
 | Experiment | Area | Status | Updated |
 |-----------|------|--------|---------|
-| EXP-17-A | Active Learning | 🟢 Running | 2026-04-29 |
-| EXP-17-B | Data Pipeline | 🟡 Review | 2026-04-29 |
-| EXP-16-C | Evaluation Suite | ✅ Done | 2026-04-29 |
+| EXP-18-A | Model Training | 🟢 Running | 2026-04-29 |
+| EXP-18-B | Data Pipeline | 🟡 Review | 2026-04-29 |
+| EXP-17-C | Evaluation Suite | ✅ Done | 2026-04-29 |
 
 ## 📦 Structure
 
@@ -40,11 +40,11 @@
 ## 📈 Progress Tracker
 
 ```
-Week 17 — 2026-04-29
+Week 18 — 2026-04-29
 Commit streak: Active
-Latest session: 2026-04-29-22-00-00-t9ed
-Focus: Active Learning
+Latest session: 2026-04-29-01-00-00-ro9h
+Focus: Model Training
 ```
 
 ---
-*Auto-updated by development pipeline — 2026-04-29T19:00:00.038Z*
+*Auto-updated by development pipeline — 2026-04-29T22:00:00.038Z*
