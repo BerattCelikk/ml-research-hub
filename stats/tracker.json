@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-04-29T08:53:30.108Z",
-  "session_id": "2026-04-29-11-53-30-vdt9",
+  "last_updated": "2026-04-29T19:00:00.038Z",
+  "session_id": "2026-04-29-22-00-00-t9ed",
   "week": 17,
   "day_of_year": 119,
   "current_topic": {
-    "key": "inference-engine",
-    "label": "Inference Engine",
-    "emoji": "⚡"
+    "key": "active-learning",
+    "label": "Active Learning",
+    "emoji": "🎓"
   },
   "metrics": {
-    "accuracy": 0.9663,
-    "loss": 0.0499,
-    "iterations": 3166,
+    "accuracy": 0.964,
+    "loss": 0.04639,
+    "iterations": 3309,
     "epoch": 22
   },
   "config": {
-    "learning_rate": 0.0003,
+    "learning_rate": 0.001,
     "batch_size": 128
   }
 }
