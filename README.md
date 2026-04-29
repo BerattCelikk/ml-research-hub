@@ -10,7 +10,7 @@
 
 | Experiment | Area | Status | Updated |
 |-----------|------|--------|---------|
-| EXP-17-A | Inference Engine | 🟢 Running | 2026-04-29 |
+| EXP-17-A | Active Learning | 🟢 Running | 2026-04-29 |
 | EXP-17-B | Data Pipeline | 🟡 Review | 2026-04-29 |
 | EXP-16-C | Evaluation Suite | ✅ Done | 2026-04-29 |
 
@@ -42,9 +42,9 @@
 ```
 Week 17 — 2026-04-29
 Commit streak: Active
-Latest session: 2026-04-29-11-53-30-vdt9
-Focus: Inference Engine
+Latest session: 2026-04-29-22-00-00-t9ed
+Focus: Active Learning
 ```
 
 ---
-*Auto-updated by development pipeline — 2026-04-29T08:53:30.108Z*
+*Auto-updated by development pipeline — 2026-04-29T19:00:00.038Z*
