@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-04-26T11:38:15.441Z",
-  "session_id": "2026-04-26-14-38-15-rluq",
+  "last_updated": "2026-04-29T08:53:11.977Z",
+  "session_id": "2026-04-29-11-53-11-9g0r",
   "week": 17,
-  "day_of_year": 116,
+  "day_of_year": 119,
   "current_topic": {
-    "key": "feature-engineering",
-    "label": "Feature Engineering",
-    "emoji": "⚙️"
+    "key": "inference-engine",
+    "label": "Inference Engine",
+    "emoji": "⚡"
   },
   "metrics": {
-    "accuracy": 0.861,
-    "loss": 0.05297,
-    "iterations": 3154,
-    "epoch": 19
+    "accuracy": 0.9144,
+    "loss": 0.07753,
+    "iterations": 3166,
+    "epoch": 22
   },
   "config": {
-    "learning_rate": 0.01,
-    "batch_size": 16
+    "learning_rate": 0.0003,
+    "batch_size": 128
   }
 }
