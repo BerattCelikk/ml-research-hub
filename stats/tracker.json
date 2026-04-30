@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-04-30T13:41:02.532Z",
-  "session_id": "2026-04-30-16-41-02-luhu",
+  "last_updated": "2026-04-30T19:00:00.036Z",
+  "session_id": "2026-04-30-22-00-00-j8bw",
   "week": 18,
   "day_of_year": 120,
   "current_topic": {
-    "key": "model-pruning",
-    "label": "Model Pruning",
-    "emoji": "✂️"
+    "key": "feature-engineering",
+    "label": "Feature Engineering",
+    "emoji": "⚙️"
   },
   "metrics": {
-    "accuracy": 0.9434,
-    "loss": 0.02194,
-    "iterations": 3248,
+    "accuracy": 0.926,
+    "loss": 0.00693,
+    "iterations": 3326,
     "epoch": 23
   },
   "config": {
-    "learning_rate": 0.0003,
+    "learning_rate": 0.001,
     "batch_size": 256
   }
 }
