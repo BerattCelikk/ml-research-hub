@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-04-29T22:00:00.038Z",
-  "session_id": "2026-04-29-01-00-00-ro9h",
+  "last_updated": "2026-04-30T01:00:00.039Z",
+  "session_id": "2026-04-30-04-00-00-aph2",
   "week": 18,
   "day_of_year": 120,
   "current_topic": {
-    "key": "model-training",
-    "label": "Model Training",
-    "emoji": "🧠"
+    "key": "visualization",
+    "label": "Visualization",
+    "emoji": "📈"
   },
   "metrics": {
-    "accuracy": 0.9655,
-    "loss": 0.06258,
-    "iterations": 3053,
+    "accuracy": 0.9025,
+    "loss": 0.07905,
+    "iterations": 3092,
     "epoch": 23
   },
   "config": {
-    "learning_rate": 0.0003,
+    "learning_rate": 0.01,
     "batch_size": 256
   }
 }
