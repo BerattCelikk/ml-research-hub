@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-04-30T10:00:00.058Z",
-  "session_id": "2026-04-30-13-00-00-815u",
+  "last_updated": "2026-04-30T13:40:46.188Z",
+  "session_id": "2026-04-30-16-40-46-jvvu",
   "week": 18,
   "day_of_year": 120,
   "current_topic": {
-    "key": "regression",
-    "label": "Regression",
-    "emoji": "📉"
+    "key": "model-pruning",
+    "label": "Model Pruning",
+    "emoji": "✂️"
   },
   "metrics": {
-    "accuracy": 0.9675,
-    "loss": 0.01619,
-    "iterations": 3209,
+    "accuracy": 0.8804,
+    "loss": 0.01916,
+    "iterations": 3248,
     "epoch": 23
   },
   "config": {
-    "learning_rate": 0.003,
+    "learning_rate": 0.0003,
     "batch_size": 256
   }
 }
