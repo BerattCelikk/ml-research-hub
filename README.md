@@ -10,7 +10,7 @@
 
 | Experiment | Area | Status | Updated |
 |-----------|------|--------|---------|
-| EXP-18-A | Regression | 🟢 Running | 2026-04-30 |
+| EXP-18-A | Model Pruning | 🟢 Running | 2026-04-30 |
 | EXP-18-B | Data Pipeline | 🟡 Review | 2026-04-30 |
 | EXP-17-C | Evaluation Suite | ✅ Done | 2026-04-30 |
 
@@ -42,9 +42,9 @@
 ```
 Week 18 — 2026-04-30
 Commit streak: Active
-Latest session: 2026-04-30-13-00-00-815u
-Focus: Regression
+Latest session: 2026-04-30-16-40-46-jvvu
+Focus: Model Pruning
 ```
 
 ---
-*Auto-updated by development pipeline — 2026-04-30T10:00:00.058Z*
+*Auto-updated by development pipeline — 2026-04-30T13:40:46.188Z*
