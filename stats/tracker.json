@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-04-30T03:00:00.029Z",
-  "session_id": "2026-04-30-06-00-00-cosm",
+  "last_updated": "2026-04-30T10:00:00.058Z",
+  "session_id": "2026-04-30-13-00-00-815u",
   "week": 18,
   "day_of_year": 120,
   "current_topic": {
-    "key": "neural-network",
-    "label": "Neural Network",
-    "emoji": "🔬"
+    "key": "regression",
+    "label": "Regression",
+    "emoji": "📉"
   },
   "metrics": {
-    "accuracy": 0.8959,
-    "loss": 0.02989,
-    "iterations": 3118,
+    "accuracy": 0.9675,
+    "loss": 0.01619,
+    "iterations": 3209,
     "epoch": 23
   },
   "config": {
-    "learning_rate": 0.0003,
+    "learning_rate": 0.003,
     "batch_size": 256
   }
 }
