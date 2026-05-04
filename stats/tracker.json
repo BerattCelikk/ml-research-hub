@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-04-30T19:00:00.036Z",
-  "session_id": "2026-04-30-22-00-00-j8bw",
+  "last_updated": "2026-05-04T19:42:55.852Z",
+  "session_id": "2026-05-04-22-42-55-ibb1",
   "week": 18,
-  "day_of_year": 120,
+  "day_of_year": 124,
   "current_topic": {
-    "key": "feature-engineering",
-    "label": "Feature Engineering",
-    "emoji": "⚙️"
+    "key": "transfer-learning",
+    "label": "Transfer Learning",
+    "emoji": "🔁"
   },
   "metrics": {
-    "accuracy": 0.926,
-    "loss": 0.00693,
-    "iterations": 3326,
-    "epoch": 23
+    "accuracy": 0.8722,
+    "loss": 0.06412,
+    "iterations": 3394,
+    "epoch": 27
   },
   "config": {
     "learning_rate": 0.001,
-    "batch_size": 256
+    "batch_size": 32
   }
 }
