@@ -1,0 +1,42 @@
+# Experiment Configuration
+# Session: 2026-05-06-22-57-48-ccrq
+# Generated: 2026-05-06T19:57:48.525Z
+
+experiment:
+  id: EXP-18-3-22
+  topic: data-preprocessing
+  date: "2026-05-06"
+  session: "2026-05-06-22-57-48-ccrq"
+
+model:
+  architecture: transformer
+  hidden_size: 768
+  num_layers: 12
+  dropout: 0.1
+  activation: gelu
+
+training:
+  learning_rate: 0.001
+  batch_size: 128
+  epochs: 50
+  current_epoch: 29
+  optimizer: adam
+  scheduler: cosine_warmup
+  warmup_steps: 1000
+
+data:
+  train_size: 0.80
+  val_size: 0.10
+  test_size: 0.10
+  num_workers: 4
+  augmentation: true
+
+results:
+  accuracy: 0.8720
+  loss: 0.01054
+  iterations: 3428
+
+output:
+  checkpoint_dir: checkpoints/
+  log_dir: logs/
+  export_format: onnx
