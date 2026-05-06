@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-04T19:43:10.159Z",
-  "session_id": "2026-05-04-22-43-10-q7yt",
+  "last_updated": "2026-05-06T19:57:48.525Z",
+  "session_id": "2026-05-06-22-57-48-ccrq",
   "week": 18,
-  "day_of_year": 124,
+  "day_of_year": 126,
   "current_topic": {
-    "key": "transfer-learning",
-    "label": "Transfer Learning",
-    "emoji": "🔁"
+    "key": "data-preprocessing",
+    "label": "Data Preprocessing",
+    "emoji": "🔧"
   },
   "metrics": {
-    "accuracy": 0.9765,
-    "loss": 0.07787,
-    "iterations": 3394,
-    "epoch": 27
+    "accuracy": 0.872,
+    "loss": 0.01054,
+    "iterations": 3428,
+    "epoch": 29
   },
   "config": {
     "learning_rate": 0.001,
-    "batch_size": 32
+    "batch_size": 128
   }
 }
