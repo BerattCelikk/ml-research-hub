@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-06T19:58:07.815Z",
-  "session_id": "2026-05-06-22-58-07-luka",
-  "week": 18,
-  "day_of_year": 126,
+  "last_updated": "2026-05-07T16:27:49.671Z",
+  "session_id": "2026-05-07-19-27-49-3r5b",
+  "week": 19,
+  "day_of_year": 127,
   "current_topic": {
     "key": "data-preprocessing",
     "label": "Data Preprocessing",
     "emoji": "🔧"
   },
   "metrics": {
-    "accuracy": 0.9385,
-    "loss": 0.08375,
-    "iterations": 3428,
-    "epoch": 29
+    "accuracy": 0.9624,
+    "loss": 0.07733,
+    "iterations": 3406,
+    "epoch": 30
   },
   "config": {
-    "learning_rate": 0.001,
-    "batch_size": 128
+    "learning_rate": 0.01,
+    "batch_size": 256
   }
 }
