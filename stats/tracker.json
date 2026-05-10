@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-08T04:00:29.219Z",
-  "session_id": "2026-05-08-07-00-29-g756",
+  "last_updated": "2026-05-10T22:04:51.556Z",
+  "session_id": "2026-05-10-01-04-51-l8mj",
   "week": 19,
-  "day_of_year": 128,
+  "day_of_year": 131,
   "current_topic": {
-    "key": "cv-preprocessing",
-    "label": "CV Preprocessing",
-    "emoji": "👁️"
+    "key": "transfer-learning",
+    "label": "Transfer Learning",
+    "emoji": "🔁"
   },
   "metrics": {
-    "accuracy": 0.918,
-    "loss": 0.01597,
-    "iterations": 3267,
-    "epoch": 31
+    "accuracy": 0.884,
+    "loss": 0.04069,
+    "iterations": 3240,
+    "epoch": 34
   },
   "config": {
-    "learning_rate": 0.001,
-    "batch_size": 16
+    "learning_rate": 0.0003,
+    "batch_size": 32
   }
 }
