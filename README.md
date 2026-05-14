@@ -1,6 +1,6 @@
 # 🧠 ML Research Hub
 
-> **Status:** Active Development &nbsp;|&nbsp; **Last Updated:** 2026-05-10
+> **Status:** Active Development &nbsp;|&nbsp; **Last Updated:** 2026-05-14
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square)
@@ -10,9 +10,9 @@
 
 | Experiment | Area | Status | Updated |
 |-----------|------|--------|---------|
-| EXP-19-A | Transfer Learning | 🟢 Running | 2026-05-10 |
-| EXP-19-B | Data Pipeline | 🟡 Review | 2026-05-10 |
-| EXP-18-C | Evaluation Suite | ✅ Done | 2026-05-10 |
+| EXP-20-A | Model Pruning | 🟢 Running | 2026-05-14 |
+| EXP-20-B | Data Pipeline | 🟡 Review | 2026-05-14 |
+| EXP-19-C | Evaluation Suite | ✅ Done | 2026-05-14 |
 
 ## 📦 Structure
 
@@ -40,11 +40,11 @@
 ## 📈 Progress Tracker
 
 ```
-Week 19 — 2026-05-10
+Week 20 — 2026-05-14
 Commit streak: Active
-Latest session: 2026-05-10-01-05-03-syti
-Focus: Transfer Learning
+Latest session: 2026-05-14-14-32-20-kmz4
+Focus: Model Pruning
 ```
 
 ---
-*Auto-updated by development pipeline — 2026-05-10T22:05:03.156Z*
+*Auto-updated by development pipeline — 2026-05-14T11:32:20.871Z*
