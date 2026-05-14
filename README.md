@@ -10,7 +10,7 @@
 
 | Experiment | Area | Status | Updated |
 |-----------|------|--------|---------|
-| EXP-20-A | Model Pruning | 🟢 Running | 2026-05-14 |
+| EXP-20-A | Ensemble Methods | 🟢 Running | 2026-05-14 |
 | EXP-20-B | Data Pipeline | 🟡 Review | 2026-05-14 |
 | EXP-19-C | Evaluation Suite | ✅ Done | 2026-05-14 |
 
@@ -42,9 +42,9 @@
 ```
 Week 20 — 2026-05-14
 Commit streak: Active
-Latest session: 2026-05-14-14-48-10-9rm4
-Focus: Model Pruning
+Latest session: 2026-05-14-16-00-00-297x
+Focus: Ensemble Methods
 ```
 
 ---
-*Auto-updated by development pipeline — 2026-05-14T11:48:10.524Z*
+*Auto-updated by development pipeline — 2026-05-14T13:00:00.074Z*
