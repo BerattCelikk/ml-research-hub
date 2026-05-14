@@ -1,0 +1,42 @@
+# Experiment Configuration
+# Session: 2026-05-14-14-32-20-kmz4
+# Generated: 2026-05-14T11:32:20.871Z
+
+experiment:
+  id: EXP-20-4-14
+  topic: model-pruning
+  date: "2026-05-14"
+  session: "2026-05-14-14-32-20-kmz4"
+
+model:
+  architecture: transformer
+  hidden_size: 768
+  num_layers: 12
+  dropout: 0.1
+  activation: gelu
+
+training:
+  learning_rate: 0.01
+  batch_size: 256
+  epochs: 50
+  current_epoch: 37
+  optimizer: adam
+  scheduler: cosine_warmup
+  warmup_steps: 1000
+
+data:
+  train_size: 0.80
+  val_size: 0.10
+  test_size: 0.10
+  num_workers: 4
+  augmentation: true
+
+results:
+  accuracy: 0.9145
+  loss: 0.03850
+  iterations: 3460
+
+output:
+  checkpoint_dir: checkpoints/
+  log_dir: logs/
+  export_format: onnx
