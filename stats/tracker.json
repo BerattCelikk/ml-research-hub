@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-14T13:00:00.074Z",
-  "session_id": "2026-05-14-16-00-00-297x",
+  "last_updated": "2026-05-14T19:00:00.249Z",
+  "session_id": "2026-05-14-22-00-00-wyp7",
   "week": 20,
   "day_of_year": 134,
   "current_topic": {
-    "key": "ensemble",
-    "label": "Ensemble Methods",
-    "emoji": "🎭"
+    "key": "visualization",
+    "label": "Visualization",
+    "emoji": "📈"
   },
   "metrics": {
-    "accuracy": 0.897,
-    "loss": 0.01883,
-    "iterations": 3486,
+    "accuracy": 0.8624,
+    "loss": 0.03991,
+    "iterations": 3564,
     "epoch": 37
   },
   "config": {
-    "learning_rate": 0.0003,
+    "learning_rate": 0.001,
     "batch_size": 256
   }
 }
