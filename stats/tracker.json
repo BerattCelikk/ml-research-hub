@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-14T19:00:00.249Z",
-  "session_id": "2026-05-14-22-00-00-wyp7",
+  "last_updated": "2026-05-14T22:00:00.164Z",
+  "session_id": "2026-05-14-01-00-00-4x85",
   "week": 20,
-  "day_of_year": 134,
+  "day_of_year": 135,
   "current_topic": {
-    "key": "visualization",
-    "label": "Visualization",
-    "emoji": "📈"
+    "key": "neural-network",
+    "label": "Neural Network",
+    "emoji": "🔬"
   },
   "metrics": {
-    "accuracy": 0.8624,
-    "loss": 0.03991,
-    "iterations": 3564,
-    "epoch": 37
+    "accuracy": 0.9328,
+    "loss": 0.04434,
+    "iterations": 3308,
+    "epoch": 38
   },
   "config": {
-    "learning_rate": 0.001,
-    "batch_size": 256
+    "learning_rate": 0.0003,
+    "batch_size": 16
   }
 }
