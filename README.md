@@ -10,7 +10,7 @@
 
 | Experiment | Area | Status | Updated |
 |-----------|------|--------|---------|
-| EXP-20-A | Visualization | 🟢 Running | 2026-05-14 |
+| EXP-20-A | Neural Network | 🟢 Running | 2026-05-14 |
 | EXP-20-B | Data Pipeline | 🟡 Review | 2026-05-14 |
 | EXP-19-C | Evaluation Suite | ✅ Done | 2026-05-14 |
 
@@ -42,9 +42,9 @@
 ```
 Week 20 — 2026-05-14
 Commit streak: Active
-Latest session: 2026-05-14-22-00-00-wyp7
-Focus: Visualization
+Latest session: 2026-05-14-01-00-00-4x85
+Focus: Neural Network
 ```
 
 ---
-*Auto-updated by development pipeline — 2026-05-14T19:00:00.249Z*
+*Auto-updated by development pipeline — 2026-05-14T22:00:00.164Z*
