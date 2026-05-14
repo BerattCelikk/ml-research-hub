@@ -1,0 +1,42 @@
+# Experiment Configuration
+# Session: 2026-05-14-22-00-00-wyp7
+# Generated: 2026-05-14T19:00:00.249Z
+
+experiment:
+  id: EXP-20-4-22
+  topic: visualization
+  date: "2026-05-14"
+  session: "2026-05-14-22-00-00-wyp7"
+
+model:
+  architecture: transformer
+  hidden_size: 768
+  num_layers: 12
+  dropout: 0.1
+  activation: gelu
+
+training:
+  learning_rate: 0.001
+  batch_size: 256
+  epochs: 50
+  current_epoch: 37
+  optimizer: adam
+  scheduler: cosine_warmup
+  warmup_steps: 1000
+
+data:
+  train_size: 0.80
+  val_size: 0.10
+  test_size: 0.10
+  num_workers: 4
+  augmentation: true
+
+results:
+  accuracy: 0.8624
+  loss: 0.03991
+  iterations: 3564
+
+output:
+  checkpoint_dir: checkpoints/
+  log_dir: logs/
+  export_format: onnx
