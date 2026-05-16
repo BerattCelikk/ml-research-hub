@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-14T22:00:00.164Z",
-  "session_id": "2026-05-14-01-00-00-4x85",
+  "last_updated": "2026-05-16T15:25:48.162Z",
+  "session_id": "2026-05-16-18-25-48-mzm0",
   "week": 20,
-  "day_of_year": 135,
+  "day_of_year": 136,
   "current_topic": {
     "key": "neural-network",
     "label": "Neural Network",
     "emoji": "🔬"
   },
   "metrics": {
-    "accuracy": 0.9328,
-    "loss": 0.04434,
-    "iterations": 3308,
-    "epoch": 38
+    "accuracy": 0.9051,
+    "loss": 0.03364,
+    "iterations": 3546,
+    "epoch": 39
   },
   "config": {
-    "learning_rate": 0.0003,
-    "batch_size": 16
+    "learning_rate": 0.003,
+    "batch_size": 32
   }
 }
