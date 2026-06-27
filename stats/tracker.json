@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-16T15:26:03.411Z",
-  "session_id": "2026-05-16-18-26-03-wo6g",
-  "week": 20,
-  "day_of_year": 136,
+  "last_updated": "2026-06-27T13:00:00.052Z",
+  "session_id": "2026-06-27-16-00-00-g887",
+  "week": 26,
+  "day_of_year": 178,
   "current_topic": {
-    "key": "neural-network",
-    "label": "Neural Network",
-    "emoji": "🔬"
+    "key": "nlp-pipeline",
+    "label": "NLP Pipeline",
+    "emoji": "📝"
   },
   "metrics": {
-    "accuracy": 0.9566,
-    "loss": 0.00564,
-    "iterations": 3546,
-    "epoch": 39
+    "accuracy": 0.877,
+    "loss": 0.01657,
+    "iterations": 4234,
+    "epoch": 32
   },
   "config": {
-    "learning_rate": 0.003,
+    "learning_rate": 0.0003,
     "batch_size": 32
   }
 }
