@@ -1,0 +1,42 @@
+# Experiment Configuration
+# Session: 2026-06-27-16-00-00-g887
+# Generated: 2026-06-27T13:00:00.052Z
+
+experiment:
+  id: EXP-26-6-16
+  topic: nlp-pipeline
+  date: "2026-06-27"
+  session: "2026-06-27-16-00-00-g887"
+
+model:
+  architecture: transformer
+  hidden_size: 768
+  num_layers: 12
+  dropout: 0.1
+  activation: gelu
+
+training:
+  learning_rate: 0.0003
+  batch_size: 32
+  epochs: 50
+  current_epoch: 32
+  optimizer: adam
+  scheduler: cosine_warmup
+  warmup_steps: 1000
+
+data:
+  train_size: 0.80
+  val_size: 0.10
+  test_size: 0.10
+  num_workers: 4
+  augmentation: true
+
+results:
+  accuracy: 0.8770
+  loss: 0.01657
+  iterations: 4234
+
+output:
+  checkpoint_dir: checkpoints/
+  log_dir: logs/
+  export_format: onnx
